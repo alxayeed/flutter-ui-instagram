@@ -1,16 +1,39 @@
-# flutter_insta
+# <Practice Flutter UI>
 
-A new Flutter project.
+## Instagram UI skeleton design
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td>Home</td>
+  </tr>
+  <tr>
+    <td><img src="ss/home.png" width="100%" height="70%" /></td>
+  </tr>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   <tr>
+    <td>Account</td>
+  </tr>
+  <tr>
+    <td><img src="ss/account.png" width="100%" height="70%" /></td>
+  </tr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <tr>
+    <td>Shop</td>
+  </tr>
+  <tr>
+    <td><img src="ss/shop.png" width="100%" height="70%" /></td>
+  </tr>
+   
+ </table>
+<br/><hr><br/>
+
+
+## Stacks
+
+- Dart
+- Flutter
+
